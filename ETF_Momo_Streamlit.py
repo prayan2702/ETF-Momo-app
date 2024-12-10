@@ -452,6 +452,19 @@ if start_button:
                 if isinstance(cell.value, (int, float)):
                     cell.value = f"{cell.value}%"
 
+	 # Add summary
+        total_filtered_stocks = ws.max_row - 1
+        ws.append([])  # Empty row
+        ws.append(["Summary"])  # Summary heading
+        summary_start_row = ws.max_row
+        ws.append([f"Total Filtered Stocks:  {total_filtered_stocks}"])
+
+
+        # Apply bold font to the summary
+        for row in ws.iter_rows(min_row=summary_start_row, max_row=ws.max_row, min_col=1, max_col=1):
+            for cell in row:
+                cell.font = Font(bold=True)
+
         wb.save(file_name)
         print("\nFiltered Excel file formatted and updated with summary.\n")
 
