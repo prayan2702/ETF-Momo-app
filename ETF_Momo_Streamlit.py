@@ -161,6 +161,7 @@ if start_button:
 
     # Create a progress bar
     progress_bar = st.progress(0)
+    status_text = st.empty()  # Placeholder for progress text
 
     # Track the number of stocks downloaded
     total_symbols = len(symbol)
@@ -187,8 +188,19 @@ if start_button:
         progress = min(max(progress, 0.0), 1.0)  #newly added for progress bar error
         progress_bar.progress(progress)
 
+        # Update status text with progress percentage
+        progress_percentage = int(progress * 100)
+        status_text.text(f"Downloading... {progress_percentage}%")
+
         time.sleep(0.5)
 
+        # After the download is complete, update the progress bar and text
+    progress_bar.progress(1.0)
+    status_text.text("Download complete!")
+
+    # Handle failed symbols (if any)
+    if failed_symbols:
+        st.write(f"Failed to download data for the following symbols: {', '.join(failed_symbols)}")
 
 
     # Convert close, high, and volume lists to DataFrames
