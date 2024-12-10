@@ -153,7 +153,6 @@ start_button = st.button("Start Data Download")
 
 if start_button:
     # Download data when the button is pressed
-    st.write("Downloading data...")
     CHUNK = 50
     close = []
     high = []
