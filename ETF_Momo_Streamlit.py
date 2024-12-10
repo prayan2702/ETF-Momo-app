@@ -140,7 +140,7 @@ st.write("End Date: ", dates['endDate'])
 
 # Read index file based on selected universe
 if U == 'NSEETF':
-    file_path = "E:\\Market Course Investing\\Momentum Python\\UploadIndexCSV\\NSE_ETF.csv"
+    file_path = 'https://raw.githubusercontent.com/prayan2702/ETF-Momo-app/refs/heads/main/NSE_ETF.csv'
 
 
 df = pd.read_csv(file_path)
