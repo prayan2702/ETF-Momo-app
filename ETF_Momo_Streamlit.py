@@ -197,6 +197,26 @@ if start_button:
     progress_bar.progress(1.0)
     status_text.text("Download complete!")
 
+#*******************************************
+    # Applied filter descriptions
+    filters = [
+        "Volume greater than 1 crore (volm_cr > 1)",
+        "Closing price above 200-day moving average (Close > dma200d)",
+        "12-month Rate of Change (ROC) greater than 6.5% (roc12M > 6.5)",
+        "Away from All-Time High within 25% (AWAY_ATH > -25)"
+    ]
+
+    # Sidebar menu for filters
+    with st.sidebar:
+        st.header("Filters Menu")
+        with st.expander("Applied Filters", expanded=False):
+            st.write("The following conditions are applied:")
+            for i, filter_desc in enumerate(filters, start=1):
+                st.write(f"{i}. {filter_desc}")
+
+#**************************************************
+
+
     # Handle failed symbols (if any)
     if failed_symbols:
         st.write(f"Failed to download data for the following symbols: {', '.join(failed_symbols)}")
