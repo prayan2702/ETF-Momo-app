@@ -106,12 +106,21 @@ st.title("ETF Momentum Ranking App")
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-# Add a dropdown for selecting the ranking method
-ranking_method = st.selectbox(
+# Dropdown options with display labels and corresponding values
+ranking_options = {
+    "sharpe3M": "sharpe3M",
+    "avgSharpe 12M/9M/6M/3M": "avgSharpe"
+}
+
+# Display dropdown for ranking method selection
+ranking_method_display = st.selectbox(
     "Select Ranking Method",
-    options=["avgSharpe", "sharpe3M"],
-    index=0  # Default to "avgSharpe"
+    options=list(ranking_options.keys()),  # Display labels
+    index=0  # Default to the first option
 )
+
+# Get the actual value for the selected display label
+ranking_method = ranking_options[ranking_method_display]
 
 # Select Universe with default value as 'NSEETF'
 universe = ['NSEETF']
