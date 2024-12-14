@@ -141,11 +141,10 @@ dates = {
     'date1M': datetime.strptime(dt2, '%Y-%m-%d') - relativedelta(months=1),
 }
 
-st.write("Date Range: Start Date: ", dates['startDate'])
-st.write("End Date: ", dates['endDate'])
+st.write("##### Date Range:")
+st.write(f"Start Date: **{dates['startDate'].strftime('%d-%m-%Y')}**")
+st.write(f"End Date: **{dates['endDate'].strftime('%d-%m-%Y')}**")
 
-# # Filters
-# apply_filter = st.checkbox("Apply Filters", value=True)
 
 # Read index file based on selected universe
 if U == 'NSEETF':
