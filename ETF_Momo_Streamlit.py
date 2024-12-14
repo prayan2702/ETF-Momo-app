@@ -288,7 +288,7 @@ if start_button:
     #***************************
 
     # Calculate ATH and Away from ATH% (Additional added condition)
-    dfStats['ATH'] = high20Y.max()
+    dfStats['ATH'] = round(high20Y.max(), 2)
     dfStats['AWAY_ATH'] = round((dfStats['Close'] / dfStats['ATH'] - 1) * 100, 2)  # Calculate %away from ALL TIME HIGH
 
 
