@@ -281,7 +281,7 @@ if start_button:
     dfStats['sharpe6M'] = getSharpeRoC(dfStats['roc6M'], dfStats['vol6M'])
     dfStats['sharpe3M'] = getSharpeRoC(dfStats['roc3M'], dfStats['vol3M'])
 
-    dfStats['avgSharpe'] = dfStats[["sharpe12M", "sharpe9M", "sharpe6M", "sharpe3M"]].mean(axis=1) #1st Factor
+    dfStats['avgSharpe'] = (dfStats[["sharpe12M", "sharpe9M", "sharpe6M", "sharpe3M"]].mean(axis=1)).round(2)  # 1st Factor #1st Factor
 
     # dfStats['volume'] = getMedianVolume(volume12M)
     dfStats['volm_cr'] = getMedianVolume(volume12M) / 1e7
