@@ -431,7 +431,7 @@ if start_button:
     def format_filtered_excel(file_name):
         # Open the written file using openpyxl
         wb = openpyxl.load_workbook(file_name)
-        ws = wb["Filtered Stocks"]  # Specify the "Filtered Stocks" sheet
+        ws = wb["Filtered ETF"]  # Specify the "Filtered Stocks" sheet
 
         # Add Borders to All Cells
         thin_border = Border(left=Side(style="thin"), right=Side(style="thin"), top=Side(style="thin"),
@@ -495,7 +495,7 @@ if start_button:
         ws.append([])  # Empty row
         ws.append(["Summary"])  # Summary heading
         summary_start_row = ws.max_row
-        ws.append([f"Total Filtered Stocks:  {total_filtered_stocks}"])
+        ws.append([f"Total Filtered ETF:  {total_filtered_stocks}"])
 
 
         # Apply bold font to the summary
@@ -514,8 +514,8 @@ if start_button:
 
     # Save filtered data to Excel
     with pd.ExcelWriter(excel_file, engine="openpyxl") as writer:
-        dfStats.to_excel(writer, sheet_name="Unfiltered Stocks", index=True)  # Unfiltered data
-        filtered.to_excel(writer, sheet_name="Filtered Stocks", index=True)  # Filtered data
+        dfStats.to_excel(writer, sheet_name="Unfiltered ETF", index=True)  # Unfiltered data
+        filtered.to_excel(writer, sheet_name="Filtered ETF", index=True)  # Filtered data
 
     # Format the Unfiltered Excel file
     format_excel(excel_file)
