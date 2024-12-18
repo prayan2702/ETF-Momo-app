@@ -529,4 +529,17 @@ if start_button:
         file_name=excel_file,
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
+#***************************************************************
+
+# Define a Keep-Alive Message
+@st.cache_data
+def keep_alive():
+    return "App is active and running!"
+
+# Streamlit Main App Code
+st.title("My Streamlit App")
+
+# Sidebar Keep-Alive Button (Optional for Testing)
+if st.sidebar.button("Test Keep Alive"):
+    st.success(keep_alive())
 
