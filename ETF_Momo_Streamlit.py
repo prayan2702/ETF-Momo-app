@@ -536,9 +536,6 @@ if start_button:
 def keep_alive():
     return "App is active and running!"
 
-# Streamlit Main App Code
-st.title("My Streamlit App")
-
 # Sidebar Keep-Alive Button (Optional for Testing)
 if st.sidebar.button("Test Keep Alive"):
     st.success(keep_alive())
