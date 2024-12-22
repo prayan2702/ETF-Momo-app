@@ -531,7 +531,3 @@ if start_button:
     )
 #***************************************************************
 
-# Sidebar Keep-Alive Button (Optional for Testing)
-if st.sidebar.button("Test Keep Alive"):
-    st.success(keep_alive())
-
