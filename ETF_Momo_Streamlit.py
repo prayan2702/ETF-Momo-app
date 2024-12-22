@@ -531,11 +531,6 @@ if start_button:
     )
 #***************************************************************
 
-# Define a Keep-Alive Message
-@st.cache_data
-def keep_alive():
-    return "App is active and running!"
-
 # Sidebar Keep-Alive Button (Optional for Testing)
 if st.sidebar.button("Test Keep Alive"):
     st.success(keep_alive())
