@@ -99,25 +99,9 @@ def getBeta(dfNifty, data12M):
 
 	return beta
 
-# # Streamlit Layout
-# st.title("ETF Momentum Ranking App")
-st.markdown(
-    """
-    <style>
-        .custom-title {
-            background-color: #F0F8FF; /* Light blue similar to st.info */
-            color: black;
-            padding: 15px;
-            border-radius: 10px;
-            text-align: center;
-            font-size: 30px;
-            font-weight: bold;
-        }
-    </style>
-    <div class="custom-title">ETF Momentum Ranking App</div>
-    """,
-    unsafe_allow_html=True
-)
+# Streamlit Layout
+st.title("ETF Momentum Ranking App")
+
 
 #To suppress future warnings about using ffill method in pct_change()
 import warnings
