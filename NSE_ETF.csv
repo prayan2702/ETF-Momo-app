@@ -1,226 +1,203 @@
-Symbol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOQUALITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOLOWVOL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MASPTOP50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BSLGOLDETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LOWVOL1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIF10GETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTYBETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MON100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVRETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MAFANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVERBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LICMFGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IVZINGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TATSILV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HNGSNGBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SBISILVER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCSILVER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVERADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVER1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVERETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLDCASE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ESILVER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCPVTBAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MONQ50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SETFGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLD1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISILVER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLDBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-QGOLDHALF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFITETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BBNPPGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GROWWGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HEALTHY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCNIF100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TATAGOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLDIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GSEC10YEAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LOWVOLIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SBIETFCON,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SILVERIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CONS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ITIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLDETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SBIETFPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLDETFADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOMENTUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AUTOBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TECH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SENSEXIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCGROWTH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GOLDSHARE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ALPL30IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ITETFADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SBIETFIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOHEALTH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ITETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCNIFIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ITBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LTGILTBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SETF10GILT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PVTBANKADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-INFRAIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-QUAL30IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CONSUMIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-FMCGIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTYQLITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SBIETFQLTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISHCETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISTECETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AUTOIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GSEC10ABSL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCQUAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BBETF0432,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SHARIABEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOGSEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PVTBANIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EBANKNIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TOP100CASE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EBBETF0433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LICNETFGSC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISBPSETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EBBETF0425,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EBBETF0430,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDCASE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EBBETF0431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GROWWLIQID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SDL26BEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDSHRI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUID1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIF5GETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GSEC10IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GSEC5IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ABSLLIQUID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDSBI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ABGSEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFMID150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDBETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LIQUIDETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCLIQUID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HEALTHIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DIVOPPBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GILT5YBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TOP10ADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-TNIDETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCLOWVOL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UTISENSETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HEALTHADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTY1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BSLSENETFG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXSENSEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIF100IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LOWVOL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTYIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NV20IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-VAL30IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NV20BEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SBINEQWETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-INFRABEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCNIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOM50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISCETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ABSLBANETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BSLNIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LICNMID100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SENSEXETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKETFADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCSENSEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UTISXN50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-QNIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SENSEXADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOM30IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IVZINNIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UTINIFTETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SETFNIF50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PHARMABEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-FINIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CONSUMBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCVALUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NPBET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKBETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISNIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTYETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOMOMENTUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTYBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-COMMOIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EQUAL50ADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ICICIB22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDSELIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NV20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BSE500IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIFTY50ADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MNC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UTINEXT50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ESG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCNIFBAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LICNETFN50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BFSI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NIF100BEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCNEXT50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SMALLCAP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SETFNIFBK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MONIFTY500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKNIFTY1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCSML250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOSMALL250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDQ50ADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MAKEINDIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCBSE500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AXISBNKETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCMID150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-UTIBANKETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GROWWEV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MID150CASE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LICNETFSEN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCMOMENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-JUNIORBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-METALIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BBNPNBETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MULTICAP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MODEFENCE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDCAPETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-IDFNIFTYET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SETFNN50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDCAP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-METAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOM100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CPSEETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NEXT50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOMENTUM50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PSUBNKBEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MID150BEES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ALPHAETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOVALUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ABSLNN50ET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-GROWWDEFNC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDSMALL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OILIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EVINDIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MIDCAPIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PSUBNKIETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NEXT50IETF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ABSLPSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-EMULTIMQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-HDFCPSUBK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ALPHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PSUBANKADD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MOREALTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-PSUBANK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-LICNFNHGP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-MAHKTECH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-BANKPSU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NAVINIFTY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Symbol,"UNDERLYING ASSET 
+"
+MONQ50,Nasdaq Q-50 Total Return Index
+HNGSNGBEES,Hang Seng Index
+MON100,Nasdaq100
+MAFANG,NYSE FANG+ Total Return Index
+MASPTOP50,S&P 500 Top 50 Total Return Index
+AXISCETF,NIFTY India Consumption Index
+MAHKTECH,Hang Seng TECH Total Return Index
+MODEFENCE,Nifty India Defence Total Return Index
+HDFCGROWTH,HDFC NIFTY Growth Sectors 15 ETF
+OILIETF,Nifty Oil & Gas Index
+SBIETFCON,Nifty India Consumption Index
+QUAL30IETF,ICICI Prudential Nifty 200 Quality 30 ETF
+CONSUMIETF,Nifty India Consumption Index
+AUTOBEES,Nifty Auto TRI
+FMCGIETF,Nifty FMCG Index
+MOREALTY,Motilal Oswal Nifty Realty ETF
+MOLOWVOL,Nifty Midcap 100 TRI
+NIFITETF,UTI Nifty IT ETF
+AUTOIETF,Nifty Auto Index
+AXSENSEX,AXIS S&P BSE SENSEX ETF
+TECH,Nifty IT TRI Index
+CONSUMBEES,Nifty India Consumption TRI
+GROWWDEFNC,Nifty India Defence Index- Total Return Index
+AXISBPSETF,Nifty AAA Bond Plus SDL Apr 2026 50:50 Index
+NETF,Tata Nifty 50 Exchange Traded Fund
+HDFCPVTBAN,HDFC NIFTY Private Bank ETF
+AXISTECETF,NIFTY IT Index
+MOQUALITY,Motilal Oswal S&P BSE Quality ETF
+HEALTHY,Nifty Healthcare TRI
+HDFCNIFIT,HDFC NIFTY IT ETF
+HDFCVALUE,HDFC NIFTY50 Value 20 ETF
+EVINDIA,Nifty EV and New Age Automotive Total Return Index
+NPBET,Nifty Private Bank Index
+SHARIABEES,Shariah
+NIFTYQLITY,Aditya Birla Sun Life Nifty 200 Quality 30 ETF
+HDFCMID150,HDFC NIFTY Midcap 150 ETF
+BSLSENETFG,BSE SENSEX Index
+SBINEQWETF,Nifty50 Equal Weight
+SBIETFIT,Nifty IT Index
+ITETFADD,DSP Nifty IT ETF
+SMALLCAP,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF
+SBIETFQLTY,Nifty 200 Quality 30 Index
+ALPHAETF,Mirae Asset Nifty 200 Alpha 30 ETF
+HEALTHIETF,Nifty Healthcare Index
+GROWWEV,Nifty EV and New Age Automotive Index
+LICNETFSEN,SENSEX
+QNIFTY,Nifty 50
+SENSEXETF,Mirae Asset S&P BSE Sensex ETF
+MID150CASE,Zerodha Nifty Midcap 150 ETF
+INFRAIETF,ICICI Prudential Nifty Infrastructure ETF
+BSE500IETF,S&P BSE 500 index
+BSLNIFTY,Nifty 50
+ITETF,Mirae Asset Nifty IT ETF
+AXISHCETF,Nifty Healthcare Index
+LICNFNHGP,Nifty 100
+SETFNIF50,Nifty 50
+BBNPNBETF,Baroda BNP Paribas NIFTY Bank ETF
+MOSMALL250,Motilal Oswal Nifty Smallcap 250 ETF
+CONS,Kotak Nifty India Consumption ETF
+INFRABEES,Nifty Infra
+LOWVOLIETF,Nifty 100 Low Volatility 30 Index
+LOWVOL,Mirae Asset Nifty 100 Low Volatility 30 ETF
+MIDSMALL,Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF
+SDL26BEES,Nifty SDL Apr 2026 Top 20 Equal Weight Index
+HDFCSML250,HDFC NIFTY Smallcap 250 ETF
+AXISNIFTY,Nifty 50
+LOWVOL1,Kotak Nifty 100 Low Vol 30 ETF
+SBISILVER,SBI SILVER ETF
+LICNMID100,LIC MF Nifty Midcap 100 ETF
+ABSLNN50ET,Nifty Next 50
+IDFNIFTYET,Nifty 50
+ITBEES,Nifty IT TRI
+SENSEXADD,DSP S&P BSE Sensex ETF
+HDFCNIF100,HDFC NIFTY 100 ETF
+ESG,NIFTY100 ESG SECTOR LEADERS
+AXISILVER,Axis Silver ETF
+HDFCMOMENT,HDFC NIFTY200 Momentum 30 ETF
+PHARMABEES,Nifty Pharma TRI
+UTINEXT50,Nifty Next 50
+MULTICAP,Nifty500 Multicap 50:25:25 Index
+NIFTY50ADD,Nifty 50 Index
+HDFCNIFTY,Nifty 50
+HDFCNEXT50,HDFC NIFTY NEXT 50 ETF
+SETFNN50,Nifty Next 50
+NIFTYBETF,Bajaj Finserv Nifty 50 ETF
+MID150BEES,Nifty Midcap 150 TRI
+MOHEALTH,Motilal Oswal S&P BSE Healthcare ETF
+LICNETFGSC,GSEC10 NSE Index
+HDFCBSE500,HDFC S&P BSE 500 ETF
+MAKEINDIA,Nifty India Manufacturing Total Return Index
+SILVER,Physical price of Silver
+MOVALUE,Motilal Oswal S&P BSE Enhanced Value ETF
+ESILVER,Edelweiss Silver ETF
+NIFTYBEES,Nifty 50
+HDFCSENSEX,SENSEX
+MOM100,Nifty Midcap 100
+JUNIORBEES,Nifty Next 50
+TNIDETF,Nifty India Digital Index
+NV20IETF,Nifty50 Value 20
+PVTBANIETF,Nifty Private Bank Index
+TOP10ADD,Nifty Top 10 Equal Weight Index
+EBANKNIFTY,Edelweiss Nifty Bank ETF
+MOM30IETF,ICICI Prudential Nifty 200 Momentum 30 ETF
+ALPL30IETF,Nifty Alpha Low-Volatility 30 Index
+NV20,Nifty50 Value 20
+NV20BEES,Nifty50 Value20 TRI
+CPSEETF,CPSE ETF
+MOMOMENTUM,Nifty 200 Momentum 30 Total Return Index
+DIVOPPBEES,Nifty Dividend Opportunities 50 TRI
+SILVERADD,DSP Silver ETF
+GSEC10IETF,ICICI Prudential Nifty 10 yr Benchmark G-Sec ETF
+ALPHA,NIFTY Alpha 50 Index
+NIF100BEES,Nifty 100 TRI
+NEXT50IETF,Nifty Next 50
+UTISENSETF,SENSEX
+TATAGOLD,Tata Gold Exchange Traded Fund
+HDFCQUAL,HDFC NIFTY100 Quality 30 ETF
+ABSLPSE,Aditya Birla Sun Life Nifty PSE ETF
+TOP100CASE,Zerodha Nifty 100 ETF
+HDFCNIFBAN,Nifty Bank
+SILVERIETF,Domestic Price of Silver
+MONIFTY500,Motilal Oswal Nifty 500 ETF
+MIDCAPIETF,Nifty Midcap 150
+MOM50,Nifty 50
+NIFTYIETF,Nifty 50
+ITIETF,Nifty IT Index
+NEXT50,Nifty Next 50
+LICNETFN50,Nifty 50
+NIF100IETF,Nifty 100
+SILVER1,Kotak Silver ETF
+ABSLBANETF,Nifty Bank
+LICMFGOLD,Gold
+SBIETFPB,Nifty Private Bank Index
+MIDCAPETF,Mirae Asset Mutual Fund - Mirae Asset Nifty Midcap 150 ETF
+MIDSELIETF,S&P BSE Midcap Select Index
+NIFTYETF,Nifty 50
+MNC,Kotak Nifty MNC ETF
+PVTBANKADD,DSP Nifty Private Bank ETF
+NIFTY1,Nifty 50
+SILVERETF,UTI Silver Exchange Traded Fund (UTI Silver ETF)
+SILVRETF,Mirae Asset Silver ETF
+IVZINNIFTY,Nifty 50
+MOMENTUM50,Nifty 500 Momentum 50 Total Return Index
+NIF10GETF,UTI Nifty 10 yr Benchmark G-Sec ETF
+GSEC10YEAR,Mirae Asset Nifty 8-13 yr G-Sec ETF
+GSEC5IETF,Nifty 5 yr Benchmark G-Sec Index
+MIDCAP,Nifty Midcap 50 Index
+NIF5GETF,UTI Nifty 5 yr Benchmark G-Sec ETF
+SENSEXIETF,SENSEX
+EQUAL50ADD,NIFTY 50 Equal Weight Index
+BFSI,Nifty Financial Services Index
+BANKBETF,Bajaj Finserv Nifty Bank ETF
+ICICIB22,S&P BSE BHARAT 22 index
+UTINIFTETF,Nifty 50
+EMULTIMQ,Nifty500 Multicap Momentum Quality 50 Total Return Index
+IT,NIFTY IT Index
+SILVERBEES,Domestic price of Silver- based on LBMA Silver daily spot fixing price
+UTIBANKETF,Nifty Bank
+TATSILV,Tata Silver Exchange Traded Fund
+GOLDETF,Mirae Asset Gold ETF
+MOGSEC,Nifty 5 yr Benchmark G-Sec Index
+BANKIETF,Nifty Bank
+EGOLD,Edelweiss Gold ETF
+HDFCSILVER,HDFC Silver ETF
+SETFNIFBK,Nifty Bank
+AXISBNKETF,Nifty Bank
+VAL30IETF,Nifty200 Value 30 Index
+UTISXN50,BSE Sensex Next 50
+BANKBEES,Nifty Bank
+BANKNIFTY1,Nifty Bank
+AXISGOLD,Gold
+BANKETFADD,DSP Nifty Bank ETF
+BANKETF,Mirae Asset Nifty Bank ETF
+MIDQ50ADD,Nifty Midcap 150 Quality 50 Index
+GOLDCASE,Zerodha Gold ETF
+GOLDETFADD,DSP Gold ETF
+COMMOIETF,ICICI Prudential Nifty Commodities ETF
+GOLD1,Gold
+NIFMID150,UTI Nifty Midcap 150 Exchange Traded Fund (ETF)
+HDFCGOLD,Gold
+GOLDIETF,Gold
+QGOLDHALF,Gold
+GOLDBEES,Gold
+BSLGOLDETF,Gold
+GROWWGOLD,Commodity
+SETFGOLD,Gold
+GOLDSHARE,Gold
+IVZINGOLD,Gold
+METALIETF,Nifty Metal Index
+HDFCLOWVOL,HDFC NIFTY100 Low Volatility 30 ETF
+BBNPPGOLD,Baroda BNP Paribas Gold ETF
+FINIETF,ICICI Prudential Nifty Financial Services Ex-Bank ETF
+PSUBNKIETF,ICICI Prudential Nifty PSU Bank ETF
+HEALTHADD,DSP Nifty Healthcare ETF
+HDFCPSUBK,HDFC NIFTY PSU BANK ETF
+PSUBNKBEES,Nifty PSU Bank
+MOMENTUM,Aditya Birla Sun Life Nifty 200 Momentum 30 ETF
+BANKPSU,Nifty PSU Bank Total Return Index
+PSUBANK,Nifty PSU Bank
+METAL,Nifty Metal Total Return Index
+PSUBANKADD,DSP Nifty PSU Bank ETF
