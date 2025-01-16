@@ -128,7 +128,7 @@ universe = ['NSEETF']
 U = st.selectbox('Select Universe:', universe, index=0)  # Default value is 'NSEETF' (index 0)
 
 # Date Picker for Lookback Start Date
-selected_date = st.date_input("Select Lookback Starting Date", datetime.today())
+selected_date = st.date_input("Select Lookback Date", datetime.today())
 dt2 = datetime.strptime(str(selected_date), "%Y-%m-%d").strftime('%Y-%m-%d')
 
 # Displaying Date Range Information
