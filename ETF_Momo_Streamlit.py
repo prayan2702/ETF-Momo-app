@@ -183,7 +183,7 @@ if start_button:
 
         # Try downloading data for each chunk of symbols
         try:
-            _x = yf.download(_symlist, start=dates['startDate'], progress=False)
+            _x = yf.download(_symlist, start=dates['startDate'], progress=False, multi_level_index=False)
             close.append(_x['Close'])
             high.append(_x['High'])
             volume.append(_x['Close'] * _x['Volume'])
